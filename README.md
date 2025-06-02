@@ -15,6 +15,12 @@ A simple and secure web-based **Online Voting System** built with **PHP**, **MyS
 ### 📊 Results Page
 ![Results](./screenshots/result_poll.jpg)
 
+
+## 👥 Manage Users
+![Manage Users](./screenshots/manage_user.jpg)
+
+## 📋 Manage Polls
+![Manage Polls](./screenshots/manage_poll.jpg)
 ---
 
 ## 👥 User Roles
